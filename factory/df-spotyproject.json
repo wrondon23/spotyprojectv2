@@ -1,0 +1,9 @@
+{
+	"name": "df-spotyproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a950cbaf-2ca8-4e8c-a60f-d9bcdbb3c832",
+		"tenantId": "8d025706-4307-4df6-b7a3-7976c6b2fd93"
+	}
+}
