@@ -1,0 +1,12 @@
+{
+	"name": "sqlazure",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "spotydb_link",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
